@@ -19,3 +19,8 @@ Foo1 -> Foo6 : To collections
 ```
 
 ![](./render/md-sample-sequence.svg)
+
+# Sample 2 for using PUML
+To host just plantuml, without showing the markup itself, you could keep the puml file separately, and just refer to the generated svg file like a regular image file. See below:
+
+![](./render/json.svg)
